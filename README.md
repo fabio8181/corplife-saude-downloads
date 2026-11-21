@@ -7,7 +7,9 @@ Todos os dados dentro do aplicativo são **fictícios**.
 
 **[Baixar a versão mais recente (APK)](https://github.com/fabio8181/corplife-saude-downloads/releases/latest/download/Corplife-Saude.apk)**
 
-Não precisa de conta no GitHub.
+Não precisa de conta no GitHub. O arquivo tem cerca de 21 MB e serve para praticamente todos os celulares Android atuais (Samsung, Motorola, Xiaomi etc.).
+
+> Se o celular for **muito antigo** (Android de 32 bits) e o app não instalar, use este arquivo: [Corplife-Saude-Android-antigo-32bits.apk](https://github.com/fabio8181/corplife-saude-downloads/releases/latest/download/Corplife-Saude-Android-antigo-32bits.apk).
 
 ## Como instalar no Android
 
